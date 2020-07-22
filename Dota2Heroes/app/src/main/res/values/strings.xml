@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Dota 2 Heroes</string>
+    <string name="heroes_name">Nama Hero</string>
+    <string name="heroes_bio">Bio</string>
+    <string name="about_me">About Me</string>
+    <string name="with_cardview">With CardView</string>
+    <string name="without_cardview">Without CardView</string>
+    <string name="heroes_biography_label">Biography</string>
+    <string name="heroes_skills_label">Skills</string>
+</resources>
